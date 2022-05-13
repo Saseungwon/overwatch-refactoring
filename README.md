@@ -4,10 +4,8 @@
 
 ## 원본 버전
 
-https://github.com/ParkYoungWoong/overwatch-hero-selector-vanilla/tree/refactoring-scss
-
+https://github.com/Saseungwon/front/tree/main/overwatch
 
 ## SCSS 리팩토링 버전
 
-https://github.com/ParkYoungWoong/overwatch-hero-selector-vanilla/tree/refactoring-scss
-
+https://github.com/Saseungwon/overwatch-refactoring
